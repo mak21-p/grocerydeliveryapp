@@ -1,3 +1,3 @@
 # Grocery Delivery App
 
-A Grocery Delivery Flutter project.
+Grocery Delivery App for android devices
